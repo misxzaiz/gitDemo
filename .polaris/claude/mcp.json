@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "polaris-requirements": {
+      "command": "\\\\?\\D:\\space\\base\\Polaris\\src-tauri\\target\\debug\\polaris-requirements-mcp.exe",
+      "args": [
+        "C:\\Users\\28409\\AppData\\Roaming\\com.polaris.app",
+        "D:\\qusc\\gitDemo"
+      ]
+    },
+    "polaris-scheduler": {
+      "command": "\\\\?\\D:\\space\\base\\Polaris\\src-tauri\\target\\debug\\polaris-scheduler-mcp.exe",
+      "args": [
+        "C:\\Users\\28409\\AppData\\Roaming\\com.polaris.app",
+        "D:\\qusc\\gitDemo"
+      ]
+    },
+    "polaris-todo": {
+      "command": "\\\\?\\D:\\space\\base\\Polaris\\src-tauri\\target\\debug\\polaris-todo-mcp.exe",
+      "args": [
+        "C:\\Users\\28409\\AppData\\Roaming\\com.polaris.app",
+        "D:\\qusc\\gitDemo"
+      ]
+    }
+  }
+}
